@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Formado em Técnico em Informática, atualmente curso Informática Biomédica pela UFCSPA.<br>
+Formado em **Técnico em Informática**, atualmente curso **Informática Biomédica pela UFCSPA**.<br>
 Atuo na área de TI, com interesse em programação, e procuro evoluir constantemente por meio dos estudos acadêmicos e do aprendizado contínuo fora da universidade.
 Gosto de aprender coisas novas, explorar tecnologias e aprimorar minhas habilidades na prática.
 

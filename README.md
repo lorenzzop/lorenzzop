@@ -19,6 +19,7 @@ Gosto de aprender coisas novas, explorar tecnologias e aprimorar minhas habilida
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br>
 ---
 ### [🤍Acesse meu portfólio aqui](https://lorenzzop.github.io/portfolio/)
           

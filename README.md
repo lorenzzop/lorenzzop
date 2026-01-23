@@ -4,7 +4,9 @@
 
 Formado em **Técnico em Informática**, atualmente curso **Informática Biomédica pela UFCSPA**.<br>
 Atuo na área de TI, com interesse em programação, e procuro evoluir constantemente por meio dos estudos acadêmicos e do aprendizado contínuo fora da universidade.
-Gosto de aprender coisas novas, explorar tecnologias e aprimorar minhas habilidades na prática.
+Gosto de aprender coisas novas, explorar tecnologias e aprimorar minhas habilidades na prática. <br>
+
+<br>With a technical background in IT, I am currently pursuing a degree in Biomedical Informatics at UFCSPA. I work in the IT field with a strong interest in programming, constantly seeking to evolve through both my academic studies and continuous self-driven learning. I enjoy discovering new things, exploring emerging technologies, and refining my skills through hands-on practice.
 
 ---
 

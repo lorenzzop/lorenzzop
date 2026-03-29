@@ -22,8 +22,7 @@ I work in the IT field with a strong interest in programming, constantly seeking
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzop&theme-tokyonight&size_weight=0.5&count_weight=0.5)
-
 ---
+
 ### [🤍Acesse meu portfólio aqui](https://lorenzzop.github.io/portfolio/)
           
